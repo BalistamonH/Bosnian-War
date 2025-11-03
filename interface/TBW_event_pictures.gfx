@@ -138,4 +138,9 @@ spriteType = {
 		texturefile = "gfx/event_pictures/report_event_CO1_tensions_2.png"
 		alwaystransparent = yes
 	}
+spriteType = {
+		name = "GFX_report_event_vanceowen"
+		texturefile = "gfx/event_pictures/report_event_vance_owen.png"
+		alwaystransparent = yes
+	}
 }

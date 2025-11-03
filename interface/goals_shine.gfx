@@ -165,7 +165,7 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_CO1_Cut_Bosnia_in_Two"
+		name = "GFX_CO1_Cut_Bosnia_in_Two_shine"
 		texturefile = "gfx/interface/goals/CO1_Cut_Bosnia_in_Two.dds"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -197,7 +197,7 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_CO1_Croatia_or_Nothing"
+		name = "GFX_CO1_Croatia_or_Nothing_shine"
 		texturefile = "gfx/interface/goals/CO1_Croatia_or_Nothing.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -720,7 +720,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Ostracize_The_Croats"
+		name = "GFX_SE1_Ostracize_The_Croats_shine"
 		texturefile = "gfx/interface/goals/SE1_Ostracize_The_Croats.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -752,7 +752,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Review_Our_Army"
+		name = "GFX_SE1_Review_Our_Army_shine"
 		texturefile = "gfx/interface/goals/SE1_Review_Our_Army.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -784,7 +784,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_The_International_Community"
+		name = "GFX_SE1_The_International_Community_shine"
 		texturefile = "gfx/interface/goals/SE1_The_International_Community.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -816,7 +816,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Restructure_The_Government"
+		name = "GFX_SE1_Restructure_The_Government_shine"
 		texturefile = "gfx/interface/goals/SE1_Restructure_The_Government.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -848,7 +848,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Dig_Up_Yugoslavian_Caches"
+		name = "GFX_SE1_Dig_Up_Yugoslavian_Caches_shine"
 		texturefile = "gfx/interface/goals/SE1_Dig_Up_Yugoslavian_Caches.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -880,7 +880,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Support_From_Orthodox_Brothers"
+		name = "GFX_SE1_Support_From_Orthodox_Brothers_shine"
 		texturefile = "gfx/interface/goals/SE1_Support_From_Orthodox_Brothers.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -912,7 +912,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Superior_Serb_Forces"
+		name = "GFX_SE1_Superior_Serb_Forces_shine"
 		texturefile = "gfx/interface/goals/SE1_Superior_Serb_Forces.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -944,7 +944,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Bolster_Conscription"
+		name = "GFX_SE1_Bolster_Conscription_shine"
 		texturefile = "gfx/interface/goals/SE1_Bolster_Conscription.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -976,7 +976,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Invigorate_The_Industry"
+		name = "GFX_SE1_Invigorate_The_Industry_shine"
 		texturefile = "gfx/interface/goals/SE1_Invigorate_The_Industry.dds"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1008,7 +1008,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Displace_The_Masses"
+		name = "GFX_SE1_Displace_The_Masses_shine"
 		texturefile = "gfx/interface/goals/SE1_Displace_The_Masses.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1040,7 +1040,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Extend_Mobilization_Efforts"
+		name = "GFX_SE1_Extend_Mobilization_Efforts_shine"
 		texturefile = "gfx/interface/goals/SE1_Extend_Mobilization_Efforts.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1072,7 +1072,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Outpace_The_Enemy"
+		name = "GFX_SE1_Outpace_The_Enemy_shine"
 		texturefile = "gfx/interface/goals/SE1_Outpace_The_Enemy.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1104,7 +1104,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Expand_The_Volunteer_Guard"
+		name = "GFX_SE1_Expand_The_Volunteer_Guard_shine"
 		texturefile = "gfx/interface/goals/SE1_Expand_The_Volunteer_Guard.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1136,7 +1136,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_A_Vehicular_Focus"
+		name = "GFX_SE1_A_Vehicular_Focus_shine"
 		texturefile = "gfx/interface/goals/SE1_A_Vehicular_Focus.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1168,7 +1168,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Up_To_Arms_Srpska"
+		name = "GFX_SE1_Up_To_Arms_Srpska_shine"
 		texturefile = "gfx/interface/goals/SE1_Up_To_Arms_Srpska.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1200,7 +1200,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Pursue_Overseas_Support"
+		name = "GFX_SE1_Pursue_Overseas_Support_shine"
 		texturefile = "gfx/interface/goals/SE1_Pursue_Overseas_Support.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1232,7 +1232,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Serbian_Land_For_Serbs"
+		name = "GFX_SE1_Serbian_Land_For_Serbs_shine"
 		texturefile = "gfx/interface/goals/SE1_Serbian_Land_For_Serbs.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1264,7 +1264,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Amplify_Our_War_Efforts"
+		name = "GFX_SE1_Amplify_Our_War_Efforts_shine"
 		texturefile = "gfx/interface/goals/SE1_Amplify_Our_War_Efforts.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1296,7 +1296,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Revive_The_Economy"
+		name = "GFX_SE1_Revive_The_Economy_shine"
 		texturefile = "gfx/interface/goals/SE1_Revive_The_Economy.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1328,7 +1328,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Streamline_Our_Production"
+		name = "GFX_SE1_Streamline_Our_Production_shine"
 		texturefile = "gfx/interface/goals/SE1_Streamline_Our_Production.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1360,7 +1360,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Drive_Out_The_Menace"
+		name = "GFX_SE1_Drive_Out_The_Menace_shine"
 		texturefile = "gfx/interface/goals/SE1_Drive_Out_The_Menace.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1392,7 +1392,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Protect_Supply_Lines"
+		name = "GFX_SE1_Protect_Supply_Lines_shine"
 		texturefile = "gfx/interface/goals/SE1_Protect_Supply_Lines.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1424,7 +1424,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Our_Orthodox_Friends"
+		name = "GFX_SE1_Our_Orthodox_Friends_shine"
 		texturefile = "gfx/interface/goals/SE1_Our_Orthodox_Friends.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1456,7 +1456,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_A_New_Identity"
+		name = "GFX_SE1_A_New_Identity_shine"
 		texturefile = "gfx/interface/goals/SE1_A_New_Identity.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1488,7 +1488,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Zastava_Arms_Shipments"
+		name = "GFX_SE1_Zastava_Arms_Shipments_shine"
 		texturefile = "gfx/interface/goals/SE1_Zastava_Arms_Shipments.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1520,7 +1520,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_SE1_Armed_Volunteers"
+		name = "GFX_SE1_SE1_Armed_Volunteers_shine"
 		texturefile = "gfx/interface/goals/SE1_Armed_Volunteers.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1552,7 +1552,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Slobodan_Our_Friend"
+		name = "GFX_SE1_Slobodan_Our_Friend_shine"
 		texturefile = "gfx/interface/goals/SE1_Slobodan_Our_Friend.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1584,7 +1584,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Our_Own_Vision"
+		name = "GFX_SE1_Our_Own_Vision_shine"
 		texturefile = "gfx/interface/goals/SE1_Our_Own_Vision.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1616,7 +1616,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_To_Hell_And_Forward"
+		name = "GFX_SE1_To_Hell_And_Forward_shine"
 		texturefile = "gfx/interface/goals/SE1_To_Hell_And_Forward.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1648,7 +1648,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Settle_For_Dayton"
+		name = "GFX_SE1_Settle_For_Dayton_shine"
 		texturefile = "gfx/interface/goals/SE1_Settle_For_Dayton.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1680,7 +1680,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Cooperate_With_The_West"
+		name = "GFX_SE1_Cooperate_With_The_West_shine"
 		texturefile = "gfx/interface/goals/SE1_Cooperate_With_The_West.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1712,7 +1712,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_Withdraw_Our_Forces"
+		name = "GFX_SE1_Withdraw_Our_Forces_shine"
 		texturefile = "gfx/interface/goals/SE1_Withdraw_Our_Forces.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1744,7 +1744,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_SE1_A_Compromise"
+		name = "GFX_SE1_A_Compromise_shine"
 		texturefile = "gfx/interface/goals/SE1_A_Compromise.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1778,7 +1778,7 @@ spriteTypes = {
 ### NEW BOSNIA FOCUSES ###
 
 	SpriteType = {
-		name = "GFX_BOS_A_Speech_To_The_UN"
+		name = "GFX_BOS_A_Speech_To_The_UN_shine"
 		texturefile = "gfx/interface/goals/BOS_A_Speech_To_The_UN.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1810,7 +1810,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Support_Islamic_Community"
+		name = "GFX_BOS_Support_Islamic_Community_shine"
 		texturefile = "gfx/interface/goals/BOS_Support_Islamic_Community.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1842,7 +1842,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Defence_of_the_Nation"
+		name = "GFX_BOS_Defence_of_the_Nation_shine"
 		texturefile = "gfx/interface/goals/BOS_Defence_of_the_Nation.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1874,7 +1874,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Our_Own_Mujahideen"
+		name = "GFX_BOS_Our_Own_Mujahideen_shine"
 		texturefile = "gfx/interface/goals/BOS_Our_Own_Mujahideen.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1906,7 +1906,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Seek_Foreign_Aid"
+		name = "GFX_BOS_Seek_Foreign_Aid_shine"
 		texturefile = "gfx/interface/goals/BOS_Seek_Foreign_Aid.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1938,7 +1938,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Fortify_Zenica"
+		name = "GFX_BOS_Fortify_Zenica_shine"
 		texturefile = "gfx/interface/goals/BOS_Fortify_Zenica.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -1970,7 +1970,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Persuade_NATO_Advisors"
+		name = "GFX_BOS_Persuade_NATO_Advisors_shine"
 		texturefile = "gfx/interface/goals/BOS_Persuade_NATO_Advisors.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2002,7 +2002,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Expand_The_ARBIH"
+		name = "GFX_BOS_Expand_The_ARBIH_shine"
 		texturefile = "gfx/interface/goals/BOS_Expand_The_ARBIH.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2034,7 +2034,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_The_Smuggling_Line"
+		name = "GFX_BOS_The_Smuggling_Line_shine"
 		texturefile = "gfx/interface/goals/BOS_The_Smuggling_Line.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2066,7 +2066,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Our_Heroes_In_Sarajevo"
+		name = "GFX_BOS_Our_Heroes_In_Sarajevo_shine"
 		texturefile = "gfx/interface/goals/BOS_Our_Heroes_In_Sarajevo.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2098,7 +2098,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Protect_Doboj_From_Chetniks"
+		name = "GFX_BOS_Protect_Doboj_From_Chetniks_shine"
 		texturefile = "gfx/interface/goals/BOS_Protect_Doboj_From_Chetniks.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2130,7 +2130,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Defense_Of_Bihac"
+		name = "GFX_BOS_Defense_Of_Bihac_shine"
 		texturefile = "gfx/interface/goals/BOS_Defense_Of_Bihac.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2162,7 +2162,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Invite_Muslim_Volunteers"
+		name = "GFX_BOS_Invite_Muslim_Volunteers_shine"
 		texturefile = "gfx/interface/goals/BOS_Invite_Muslim_Volunteers.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2194,7 +2194,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Help_From_Our_Muslim_Brothers"
+		name = "GFX_BOS_Help_From_Our_Muslim_Brothers_shine"
 		texturefile = "gfx/interface/goals/BOS_Help_From_Our_Muslim_Brothers.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2226,7 +2226,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Build_A_New_Industry"
+		name = "GFX_BOS_Build_A_New_Industry_shine"
 		texturefile = "gfx/interface/goals/BOS_Build_A_New_Industry.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2258,7 +2258,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Miracle_of_Sarajevo"
+		name = "GFX_BOS_Miracle_of_Sarajevo_shine"
 		texturefile = "gfx/interface/goals/BOS_Miracle_of_Sarajevo.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2290,7 +2290,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Future_Of_The_Bosnian_State"
+		name = "GFX_BOS_Future_Of_The_Bosnian_State_shine"
 		texturefile = "gfx/interface/goals/BOS_Future_Of_The_Bosnian_State.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2322,7 +2322,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Establish_The_Convertible_Mark"
+		name = "GFX_BOS_Establish_The_Convertible_Mark_shine"
 		texturefile = "gfx/interface/goals/BOS_Establish_The_Convertible_Mark.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2354,7 +2354,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_A_True_Bosnian_Currency"
+		name = "GFX_BOS_A_True_Bosnian_Currency_shine"
 		texturefile = "gfx/interface/goals/BOS_A_True_Bosnian_Currency.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2386,7 +2386,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Usher_In_Western_Investments"
+		name = "GFX_BOS_Usher_In_Western_Investments_shine"
 		texturefile = "gfx/interface/goals/BOS_Usher_In_Western_Investments.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2418,7 +2418,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_New_Army_Reforms"
+		name = "GFX_BOS_New_Army_Reforms_shine"
 		texturefile = "gfx/interface/goals/BOS_New_Army_Reforms.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2450,7 +2450,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Islamic_State_In_Europe"
+		name = "GFX_BOS_Islamic_State_In_Europe_shine"
 		texturefile = "gfx/interface/goals/BOS_Islamic_State_In_Europe.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2482,7 +2482,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_The_Washington_Agreement"
+		name = "GFX_BOS_The_Washington_Agreement_shine"
 		texturefile = "gfx/interface/goals/BOS_The_Washington_Agreement.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2514,7 +2514,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Declare_Jihad_Against_Srpska"
+		name = "GFX_BOS_Declare_Jihad_Against_Srpska_shine"
 		texturefile = "gfx/interface/goals/BOS_Declare_Jihad_Against_Srpska.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2546,7 +2546,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_United_Muslim_Support"
+		name = "GFX_BOS_United_Muslim_Support_shine"
 		texturefile = "gfx/interface/goals/BOS_United_Muslim_Support.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2578,7 +2578,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_A_Young_Democracy"
+		name = "GFX_BOS_A_Young_Democracy_shine"
 		texturefile = "gfx/interface/goals/BOS_A_Young_Democracy.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2610,7 +2610,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Establish_Core_Institutions"
+		name = "GFX_BOS_Establish_Core_Institutions_shine"
 		texturefile = "gfx/interface/goals/BOS_Establish_Core_Institutions.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2642,7 +2642,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Seek_National_Unity"
+		name = "GFX_BOS_Seek_National_Unity_shine"
 		texturefile = "gfx/interface/goals/BOS_Seek_National_Unity.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2674,7 +2674,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Seek_National_Unity"
+		name = "GFX_BOS_Seek_National_Unity_shine"
 		texturefile = "gfx/interface/goals/BOS_Seek_National_Unity.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2706,7 +2706,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Improve_Our_Army_Logistics"
+		name = "GFX_BOS_Improve_Our_Army_Logistics_shine"
 		texturefile = "gfx/interface/goals/BOS_Improve_Our_Army_Logistics.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2738,7 +2738,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Appeal_To_The_Terms"
+		name = "GFX_BOS_Appeal_To_The_Terms_shine"
 		texturefile = "gfx/interface/goals/BOS_Appeal_To_The_Terms.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2770,7 +2770,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_No_Cooperation"
+		name = "GFX_BOS_No_Cooperation_shine"
 		texturefile = "gfx/interface/goals/BOS_No_Cooperation.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2802,7 +2802,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_A_Strong_Bosnian_Economy"
+		name = "GFX_BOS_A_Strong_Bosnian_Economy_shine"
 		texturefile = "gfx/interface/goals/BOS_A_Strong_Bosnian_Economy.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2834,7 +2834,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_BOS_Jihad_Onto_Belgrade"
+		name = "GFX_BOS_Jihad_Onto_Belgrade_shine"
 		texturefile = "gfx/interface/goals/BOS_Jihad_Onto_Belgrade.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2868,7 +2868,7 @@ spriteTypes = {
 ### NEW HERZEG FOCUSES ###
 
 	SpriteType = {
-		name = "GFX_CO1_A_Land_For_Croatians"
+		name = "GFX_CO1_A_Land_For_Croatians_shine"
 		texturefile = "gfx/interface/goals/CO1_A_Land_For_Croatians.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2900,7 +2900,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Augment_New_Operations"
+		name = "GFX_CO1_Augment_New_Operations_shine"
 		texturefile = "gfx/interface/goals/CO1_Augment_New_Operations.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2932,7 +2932,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Break_Through_Their_Lines"
+		name = "GFX_CO1_Break_Through_Their_Lines_shine"
 		texturefile = "gfx/interface/goals/CO1_Break_Through_Their_Lines.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2964,7 +2964,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Defend_Our_Rightful_Land"
+		name = "GFX_CO1_Defend_Our_Rightful_Land_shine"
 		texturefile = "gfx/interface/goals/CO1_Defend_Our_Rightful_Land.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -2996,7 +2996,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Strike_Against_Our_Foes"
+		name = "GFX_CO1_Strike_Against_Our_Foes_shine"
 		texturefile = "gfx/interface/goals/CO1_Strike_Against_Our_Foes.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3028,7 +3028,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Shatter_The_Front"
+		name = "GFX_CO1_Shatter_The_Front_shine"
 		texturefile = "gfx/interface/goals/CO1_Shatter_The_Front.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3060,7 +3060,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Rejuvenate_The_Economy"
+		name = "GFX_CO1_Rejuvenate_The_Economy_shine"
 		texturefile = "gfx/interface/goals/CO1_Rejuvenate_The_Economy.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3092,7 +3092,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_To_Hell_With_Heretics"
+		name = "GFX_CO1_To_Hell_With_Heretics_shine"
 		texturefile = "gfx/interface/goals/CO1_To_Hell_With_Heretics.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3124,7 +3124,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_The_Enemy_Of_Our_Enemy"
+		name = "GFX_CO1_The_Enemy_Of_Our_Enemy_shine"
 		texturefile = "gfx/interface/goals/CO1_The_Enemy_Of_Our_Enemy.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3156,7 +3156,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_A_New_Offensive"
+		name = "GFX_CO1_A_New_Offensive_shine"
 		texturefile = "gfx/interface/goals/CO1_A_New_Offensive.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3188,7 +3188,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Safeguard_The_Nation"
+		name = "GFX_CO1_Safeguard_The_Nation_shine"
 		texturefile = "gfx/interface/goals/CO1_Safeguard_The_Nation.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3220,7 +3220,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Safeguard_The_Nation"
+		name = "GFX_CO1_Safeguard_The_Nation_shine"
 		texturefile = "gfx/interface/goals/CO1_Safeguard_The_Nation.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3252,7 +3252,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_A_Reformed_Army"
+		name = "GFX_CO1_A_Reformed_Army_shine"
 		texturefile = "gfx/interface/goals/CO1_A_Reformed_Army.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3284,7 +3284,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Ambush_Their_Lines"
+		name = "GFX_CO1_Ambush_Their_Lines_shine"
 		texturefile = "gfx/interface/goals/CO1_Ambush_Their_Lines.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3316,7 +3316,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Heroes_of_Herzegovina"
+		name = "GFX_CO1_Heroes_of_Herzegovina_shine"
 		texturefile = "gfx/interface/goals/CO1_Heroes_of_Herzegovina.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3348,7 +3348,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_Champions_Of_The_Frontlines"
+		name = "GFX_CO1_Champions_Of_The_Frontlines_shine"
 		texturefile = "gfx/interface/goals/CO1_Champions_Of_The_Frontlines.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -3380,7 +3380,7 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_CO1_The_Righteous_Fight"
+		name = "GFX_CO1_The_Righteous_Fight_shine"
 		texturefile = "gfx/interface/goals/CO1_The_Righteous_Fight.png"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {

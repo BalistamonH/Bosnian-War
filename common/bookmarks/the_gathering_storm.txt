@@ -11,9 +11,14 @@ bookmarks = {
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
+                idea_the_bosnian_war
+                SE1_VRS
+                SE1_Divergent_Army_Command
 			}
 			focuses = {
-			
+			    SE1_Up_To_Arms_Srpska
+                SE1_Expand_The_Volunteer_Guard
+                SE1_Teach_the_UN_a_Lesson
 			}
 		}
 		
@@ -21,9 +26,13 @@ bookmarks = {
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
+                idea_the_bosnian_war
+                CO1_HVO
 			}
 			focuses = {
-			
+			    CO1_A_Land_For_Croatians
+                CO1_The_Righteous_Fight
+                CO1_A_New_Offensive
 			}
 		}
 		
@@ -31,9 +40,14 @@ bookmarks = {
 			history = "OTHER_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
+                idea_the_bosnian_war
+                BOS_Newly_Bred_Forces
+                BOS_ARBIH
 			}
 			focuses = {
-			
+			    BOS_Bosnia_Rises
+                BOS_Expand_The_ARBIH
+                BOS_Future_Of_The_Bosnian_State
 			}
 		}
         
